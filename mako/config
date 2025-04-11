@@ -1,0 +1,19 @@
+# global options
+max-history=10
+sort=-time
+
+# binding options
+on-button-left=invoke-default-action
+on-button-middle=none
+on-button-right=dismiss
+on-touch=none
+on-notify=none
+
+# style options
+background-color=#080813
+text-color=#ffffff
+border-color=#301753
+width=300
+height=150
+border-size=2
+anchor=bottom-right
